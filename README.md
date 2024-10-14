@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jesusBarrazaCastro
 - 👀 I’m interested in web and mobile development with multiplatform technologies like flutter and Databases
 - 💻 Current Stack: Flutter, Python, .NET, SQL Server, PostgreSQL
-- 🌱 I’m currently learning data science and machine learning, and native mobile development with swift
+- 🌱 I’m currently learning data science and machine learning, and native mobile development with swift UI and kotlin
 - 📫 How to reach me : jesusbarrazacastro30@gmail.com
 - ⚡ Fun fact: my favourite tv show is the mandalorian
 
