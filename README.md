@@ -3,7 +3,6 @@
 - 💻 Current Stack: Flutter, Python, .NET, SQL Server, PostgreSQL
 - 🌱 I’m currently learning data science and machine learning, and native mobile development with swift UI and kotlin
 - 📫 How to reach me : jesusbarrazacastro30@gmail.com
-- ⚡ Fun fact: my favourite tv show is the mandalorian
 
 <!---
 jesusBarrazaCastro/jesusBarrazaCastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
